@@ -16,7 +16,7 @@
 ![](results/output-3.png)
 ### Face Detection in Template Image
 ![](results/output-4.png)
-### Feature-Based Clustering using KMeans(with images)
+### Feature-Based Clustering using KMeans(with images)-with template image
 ![](results/output-5.png)
-### Feature-Based Clustering using KMeans(with centroids)
-![](reuslts/output-6.png)
+### Feature-Based Clustering using KMeans(with centroids)- with template image
+![](results/output-6.png)
