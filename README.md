@@ -8,3 +8,15 @@
 ## Results:
 ### Face detection results with bounding boxes drawn on detected faces,scatter plot of faces in Hue–Saturation feature space,cluster centroids plotted alongside face samples and finally template image placement within the clustered feature space. 
 ### The images of the results are given below:-
+### Face Detection in Group Image
+![](reuslts/output-1.png)
+### Feature-Based Clustering using KMeans(with images)
+![](reuslts/output-2.png)
+### Feature-Based Clustering using KMeans(with centroids)
+![](reuslts/output-3.png)
+### Face Detection in Template Image
+![](reuslts/output-4.png)
+### Feature-Based Clustering using KMeans(with images)
+![](reuslts/output5.png)
+### Feature-Based Clustering using KMeans(with centroids)
+![](reuslts/output6.png)
